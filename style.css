@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #8e2d21;
+    margin-top: 50px;
+    text-align: center;
+}
+h1 {
+    color: #2a1f1f;
+}
+.choice-btn img {
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    cursor: pointer;
+}
+.result-box {
+    border: 7px solid #2a1f1f;
+    border-radius: 15px;
+    background-color: #865e5e;
+    display: inline-block;
+    text-align: left;
+    margin-top: 25px;
+    padding: 20px;
+    font-size: 20px;
+    color: #000000;
+}
+
+
+.reset-button {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.reset-button .reset-b {
+    padding: 25px 25px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: #865e5e;
+    color: #000000;
+    border: 7px solid #2a1f1f;
+    cursor: pointer;
+}
+
+.reset-button .reset-b:hover {
+    background-color: lightgreen;
+}
