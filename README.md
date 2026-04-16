@@ -10,7 +10,7 @@ This is made with PHP random triggers
 
 ---
 
-![image alt](samples/rock-beats-paper.png)
+![image alt](samples/rock-beats-scissors.png)
 
 ---
 
