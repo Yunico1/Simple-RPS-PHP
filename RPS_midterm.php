@@ -33,7 +33,7 @@ if (isset($_POST['reset'])) {
     <link rel=stylesheet href="style.css">
 </head>
 <body>
-    <h1>Rock, Paper, Scissors!</h1><br>
+    <h1>Rock, Paper, Scissors! FAHHHH!!</h1><br>
     <form method="post">
         <button type="submit" name="choice" value="rock" class="choice-btn">
             <img src="rock.png" alt="Rock">
