@@ -6,15 +6,15 @@ This is made with PHP random triggers
 
 ## Heres some examples:
 
-display paper-beats-rock.png
+display samples/paper-beats-rock.png
 
 ---
 
-display rock-beats-paper.png
+display samples/rock-beats-paper.png
 
 ---
 
-display reset.png
+display samples/reset.png
 
 ----
 
